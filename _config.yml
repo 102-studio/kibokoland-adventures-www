@@ -1,0 +1,9 @@
+permalink: pretty
+
+theme: jekyll_patternbot
+
+#build settings
+incremental: true
+
+gems:
+  - jekyll-babel
